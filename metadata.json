@@ -1,0 +1,5 @@
+{
+  "name": "Synapse IDE",
+  "description": "An AI-powered IDE blueprint with a functional Monaco editor, file explorer, and live preview panel, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
